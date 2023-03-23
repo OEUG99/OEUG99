@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Microservices**
 
-- 💬 Ask me about **Python, Java, C++, React, Perl! **
+- 💬 Ask me about **Python, Java, C++, React, Perl!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
