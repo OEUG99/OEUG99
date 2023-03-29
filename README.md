@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Microservices** check out my indepdendent project via it's [organizations page](https://github.com/Reel-Dating)
 
-- 💬 Ask me about **Python, Java, C++, React, perl**
+- 💬 Ask me about **Python, Java, C++, React, and I even like [perl](https://gist.github.com/OEUG99/2647909cfdc8e3d7a934dceb8c4c19f2)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
