@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oli</h1>
 <h3 align="center">A passionate frontend developer from Tallahassee with an interest in distributed systems.</h3>
 
-- 🔭 I’m currently working on **Microservices** check out my indepdendent project via it's [organizations page](https://github.com/Reel-Dating)
+- 🔭 I’m currently working on **Microservices** 
 
 - 💬 Ask me about **Python, Java, C++, React, and I even like [perl](https://gist.github.com/OEUG99/2647909cfdc8e3d7a934dceb8c4c19f2)**
 
