@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oli</h1>
-<h3 align="center">A passionate frontend developer from Tallahassee with an interest in distributed systems.</h3>
+<h3 align="center">A passionate fullstack developer from Tallahassee with an interest in distributed systems.</h3>
 
 - 🔭 I’m currently working on **Microservices** 
 
